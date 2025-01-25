@@ -1,18 +1,18 @@
 {
   "_links": {
     "self": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/AI%20agent%20that%20can%20scrape%20webpages.json?ref=main",
-    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/86e4b733d45da3cfc549a0e191e5c8dcd087e864",
     "html": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/AI%20agent%20that%20can%20scrape%20webpages.json"
   },
-  "content": "ewogICJlcnJvciI6ICJUaGUgcmVzb3VyY2UgeW91IGFyZSByZXF1ZXN0aW5n\nIGNvdWxkIG5vdCBiZSBmb3VuZCIKfQ==\n",
+  "content": "ewogICJfbGlua3MiOiB7CiAgICAic2VsZiI6ICJodHRwczovL2FwaS5naXRo\ndWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvY29udGVudHMv\nMjAyNS8wMS9BSSUyMGFnZW50JTIwdGhhdCUyMGNhbiUyMHNjcmFwZSUyMHdl\nYnBhZ2VzLmpzb24/cmVmPW1haW4iLAogICAgImdpdCI6ICJodHRwczovL2Fw\naS5naXRodWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvZ2l0\nL2Jsb2JzL2RkNTE4ZmYwNzg0ZDY1NzRhYWJkMTkxYjI5ODllYmQ3ZGY5MjBk\nM2IiLAogICAgImh0bWwiOiAiaHR0cHM6Ly9naXRodWIuY29tL09saXZpZXIz\nNDAvbjhuLXdvcmtsb3cvYmxvYi9tYWluLzIwMjUvMDEvQUklMjBhZ2VudCUy\nMHRoYXQlMjBjYW4lMjBzY3JhcGUlMjB3ZWJwYWdlcy5qc29uIgogIH0sCiAg\nImNvbnRlbnQiOiAiZXdvZ0lDSmxjbkp2Y2lJNklDSlVhR1VnY21WemIzVnlZ\nMlVnZVc5MUlHRnlaU0J5WlhGMVpYTjBhVzVuXG5JR052ZFd4a0lHNXZkQ0Jp\nWlNCbWIzVnVaQ0lLZlE9PVxuIiwKICAiZG93bmxvYWRfdXJsIjogImh0dHBz\nOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9PbGl2aWVyMzQwL244bi13\nb3JrbG93L21haW4vMjAyNS8wMS9BSSUyMGFnZW50JTIwdGhhdCUyMGNhbiUy\nMHNjcmFwZSUyMHdlYnBhZ2VzLmpzb24iLAogICJlbmNvZGluZyI6ICJiYXNl\nNjQiLAogICJnaXRfdXJsIjogImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVw\nb3MvT2xpdmllcjM0MC9uOG4td29ya2xvdy9naXQvYmxvYnMvZGQ1MThmZjA3\nODRkNjU3NGFhYmQxOTFiMjk4OWViZDdkZjkyMGQzYiIsCiAgImh0bWxfdXJs\nIjogImh0dHBzOi8vZ2l0aHViLmNvbS9PbGl2aWVyMzQwL244bi13b3JrbG93\nL2Jsb2IvbWFpbi8yMDI1LzAxL0FJJTIwYWdlbnQlMjB0aGF0JTIwY2FuJTIw\nc2NyYXBlJTIwd2VicGFnZXMuanNvbiIsCiAgIm5hbWUiOiAiQUkgYWdlbnQg\ndGhhdCBjYW4gc2NyYXBlIHdlYnBhZ2VzLmpzb24iLAogICJwYXRoIjogIjIw\nMjUvMDEvQUkgYWdlbnQgdGhhdCBjYW4gc2NyYXBlIHdlYnBhZ2VzLmpzb24i\nLAogICJzaGEiOiAiZGQ1MThmZjA3ODRkNjU3NGFhYmQxOTFiMjk4OWViZDdk\nZjkyMGQzYiIsCiAgInNpemUiOiA2NywKICAidHlwZSI6ICJmaWxlIiwKICAi\ndXJsIjogImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvT2xpdmllcjM0\nMC9uOG4td29ya2xvdy9jb250ZW50cy8yMDI1LzAxL0FJJTIwYWdlbnQlMjB0\naGF0JTIwY2FuJTIwc2NyYXBlJTIwd2VicGFnZXMuanNvbj9yZWY9bWFpbiIK\nfQ==\n",
   "download_url": "https://raw.githubusercontent.com/Olivier340/n8n-worklow/main/2025/01/AI%20agent%20that%20can%20scrape%20webpages.json",
   "encoding": "base64",
-  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/86e4b733d45da3cfc549a0e191e5c8dcd087e864",
   "html_url": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/AI%20agent%20that%20can%20scrape%20webpages.json",
   "name": "AI agent that can scrape webpages.json",
   "path": "2025/01/AI agent that can scrape webpages.json",
-  "sha": "dd518ff0784d6574aabd191b2989ebd7df920d3b",
-  "size": 67,
+  "sha": "86e4b733d45da3cfc549a0e191e5c8dcd087e864",
+  "size": 1261,
   "type": "file",
   "url": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/AI%20agent%20that%20can%20scrape%20webpages.json?ref=main"
 }
