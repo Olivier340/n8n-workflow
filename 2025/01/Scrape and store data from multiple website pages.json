@@ -1,18 +1,18 @@
 {
   "_links": {
     "self": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/Scrape%20and%20store%20data%20from%20multiple%20website%20pages.json?ref=main",
-    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/e7f9e1f1879239106573fb5463afd3e04ff338ac",
     "html": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/Scrape%20and%20store%20data%20from%20multiple%20website%20pages.json"
   },
-  "content": "ewogICJlcnJvciI6ICJUaGUgcmVzb3VyY2UgeW91IGFyZSByZXF1ZXN0aW5n\nIGNvdWxkIG5vdCBiZSBmb3VuZCIKfQ==\n",
+  "content": "ewogICJfbGlua3MiOiB7CiAgICAic2VsZiI6ICJodHRwczovL2FwaS5naXRo\ndWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvY29udGVudHMv\nMjAyNS8wMS9TY3JhcGUlMjBhbmQlMjBzdG9yZSUyMGRhdGElMjBmcm9tJTIw\nbXVsdGlwbGUlMjB3ZWJzaXRlJTIwcGFnZXMuanNvbj9yZWY9bWFpbiIsCiAg\nICAiZ2l0IjogImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvT2xpdmll\ncjM0MC9uOG4td29ya2xvdy9naXQvYmxvYnMvZGQ1MThmZjA3ODRkNjU3NGFh\nYmQxOTFiMjk4OWViZDdkZjkyMGQzYiIsCiAgICAiaHRtbCI6ICJodHRwczov\nL2dpdGh1Yi5jb20vT2xpdmllcjM0MC9uOG4td29ya2xvdy9ibG9iL21haW4v\nMjAyNS8wMS9TY3JhcGUlMjBhbmQlMjBzdG9yZSUyMGRhdGElMjBmcm9tJTIw\nbXVsdGlwbGUlMjB3ZWJzaXRlJTIwcGFnZXMuanNvbiIKICB9LAogICJjb250\nZW50IjogImV3b2dJQ0psY25KdmNpSTZJQ0pVYUdVZ2NtVnpiM1Z5WTJVZ2VX\nOTFJR0Z5WlNCeVpYRjFaWE4wYVc1blxuSUdOdmRXeGtJRzV2ZENCaVpTQm1i\nM1Z1WkNJS2ZRPT1cbiIsCiAgImRvd25sb2FkX3VybCI6ICJodHRwczovL3Jh\ndy5naXRodWJ1c2VyY29udGVudC5jb20vT2xpdmllcjM0MC9uOG4td29ya2xv\ndy9tYWluLzIwMjUvMDEvU2NyYXBlJTIwYW5kJTIwc3RvcmUlMjBkYXRhJTIw\nZnJvbSUyMG11bHRpcGxlJTIwd2Vic2l0ZSUyMHBhZ2VzLmpzb24iLAogICJl\nbmNvZGluZyI6ICJiYXNlNjQiLAogICJnaXRfdXJsIjogImh0dHBzOi8vYXBp\nLmdpdGh1Yi5jb20vcmVwb3MvT2xpdmllcjM0MC9uOG4td29ya2xvdy9naXQv\nYmxvYnMvZGQ1MThmZjA3ODRkNjU3NGFhYmQxOTFiMjk4OWViZDdkZjkyMGQz\nYiIsCiAgImh0bWxfdXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9PbGl2aWVy\nMzQwL244bi13b3JrbG93L2Jsb2IvbWFpbi8yMDI1LzAxL1NjcmFwZSUyMGFu\nZCUyMHN0b3JlJTIwZGF0YSUyMGZyb20lMjBtdWx0aXBsZSUyMHdlYnNpdGUl\nMjBwYWdlcy5qc29uIiwKICAibmFtZSI6ICJTY3JhcGUgYW5kIHN0b3JlIGRh\ndGEgZnJvbSBtdWx0aXBsZSB3ZWJzaXRlIHBhZ2VzLmpzb24iLAogICJwYXRo\nIjogIjIwMjUvMDEvU2NyYXBlIGFuZCBzdG9yZSBkYXRhIGZyb20gbXVsdGlw\nbGUgd2Vic2l0ZSBwYWdlcy5qc29uIiwKICAic2hhIjogImRkNTE4ZmYwNzg0\nZDY1NzRhYWJkMTkxYjI5ODllYmQ3ZGY5MjBkM2IiLAogICJzaXplIjogNjcs\nCiAgInR5cGUiOiAiZmlsZSIsCiAgInVybCI6ICJodHRwczovL2FwaS5naXRo\ndWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvY29udGVudHMv\nMjAyNS8wMS9TY3JhcGUlMjBhbmQlMjBzdG9yZSUyMGRhdGElMjBmcm9tJTIw\nbXVsdGlwbGUlMjB3ZWJzaXRlJTIwcGFnZXMuanNvbj9yZWY9bWFpbiIKfQ==\n",
   "download_url": "https://raw.githubusercontent.com/Olivier340/n8n-worklow/main/2025/01/Scrape%20and%20store%20data%20from%20multiple%20website%20pages.json",
   "encoding": "base64",
-  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/e7f9e1f1879239106573fb5463afd3e04ff338ac",
   "html_url": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/Scrape%20and%20store%20data%20from%20multiple%20website%20pages.json",
   "name": "Scrape and store data from multiple website pages.json",
   "path": "2025/01/Scrape and store data from multiple website pages.json",
-  "sha": "dd518ff0784d6574aabd191b2989ebd7df920d3b",
-  "size": 67,
+  "sha": "e7f9e1f1879239106573fb5463afd3e04ff338ac",
+  "size": 1393,
   "type": "file",
   "url": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/Scrape%20and%20store%20data%20from%20multiple%20website%20pages.json?ref=main"
 }
