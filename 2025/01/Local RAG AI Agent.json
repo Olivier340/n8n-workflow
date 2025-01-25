@@ -1,18 +1,18 @@
 {
   "_links": {
     "self": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/Local%20RAG%20AI%20Agent.json?ref=main",
-    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/fa6630d007c121217db44e9cababf71d9fa4f3f4",
     "html": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/Local%20RAG%20AI%20Agent.json"
   },
-  "content": "ewogICJlcnJvciI6ICJUaGUgcmVzb3VyY2UgeW91IGFyZSByZXF1ZXN0aW5n\nIGNvdWxkIG5vdCBiZSBmb3VuZCIKfQ==\n",
+  "content": "ewogICJfbGlua3MiOiB7CiAgICAic2VsZiI6ICJodHRwczovL2FwaS5naXRo\ndWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvY29udGVudHMv\nMjAyNS8wMS9Mb2NhbCUyMFJBRyUyMEFJJTIwQWdlbnQuanNvbj9yZWY9bWFp\nbiIsCiAgICAiZ2l0IjogImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mv\nT2xpdmllcjM0MC9uOG4td29ya2xvdy9naXQvYmxvYnMvZGQ1MThmZjA3ODRk\nNjU3NGFhYmQxOTFiMjk4OWViZDdkZjkyMGQzYiIsCiAgICAiaHRtbCI6ICJo\ndHRwczovL2dpdGh1Yi5jb20vT2xpdmllcjM0MC9uOG4td29ya2xvdy9ibG9i\nL21haW4vMjAyNS8wMS9Mb2NhbCUyMFJBRyUyMEFJJTIwQWdlbnQuanNvbiIK\nICB9LAogICJjb250ZW50IjogImV3b2dJQ0psY25KdmNpSTZJQ0pVYUdVZ2Nt\nVnpiM1Z5WTJVZ2VXOTFJR0Z5WlNCeVpYRjFaWE4wYVc1blxuSUdOdmRXeGtJ\nRzV2ZENCaVpTQm1iM1Z1WkNJS2ZRPT1cbiIsCiAgImRvd25sb2FkX3VybCI6\nICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vT2xpdmllcjM0\nMC9uOG4td29ya2xvdy9tYWluLzIwMjUvMDEvTG9jYWwlMjBSQUclMjBBSSUy\nMEFnZW50Lmpzb24iLAogICJlbmNvZGluZyI6ICJiYXNlNjQiLAogICJnaXRf\ndXJsIjogImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvT2xpdmllcjM0\nMC9uOG4td29ya2xvdy9naXQvYmxvYnMvZGQ1MThmZjA3ODRkNjU3NGFhYmQx\nOTFiMjk4OWViZDdkZjkyMGQzYiIsCiAgImh0bWxfdXJsIjogImh0dHBzOi8v\nZ2l0aHViLmNvbS9PbGl2aWVyMzQwL244bi13b3JrbG93L2Jsb2IvbWFpbi8y\nMDI1LzAxL0xvY2FsJTIwUkFHJTIwQUklMjBBZ2VudC5qc29uIiwKICAibmFt\nZSI6ICJMb2NhbCBSQUcgQUkgQWdlbnQuanNvbiIsCiAgInBhdGgiOiAiMjAy\nNS8wMS9Mb2NhbCBSQUcgQUkgQWdlbnQuanNvbiIsCiAgInNoYSI6ICJkZDUx\nOGZmMDc4NGQ2NTc0YWFiZDE5MWIyOTg5ZWJkN2RmOTIwZDNiIiwKICAic2l6\nZSI6IDY3LAogICJ0eXBlIjogImZpbGUiLAogICJ1cmwiOiAiaHR0cHM6Ly9h\ncGkuZ2l0aHViLmNvbS9yZXBvcy9PbGl2aWVyMzQwL244bi13b3JrbG93L2Nv\nbnRlbnRzLzIwMjUvMDEvTG9jYWwlMjBSQUclMjBBSSUyMEFnZW50Lmpzb24/\ncmVmPW1haW4iCn0=\n",
   "download_url": "https://raw.githubusercontent.com/Olivier340/n8n-worklow/main/2025/01/Local%20RAG%20AI%20Agent.json",
   "encoding": "base64",
-  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/fa6630d007c121217db44e9cababf71d9fa4f3f4",
   "html_url": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/Local%20RAG%20AI%20Agent.json",
   "name": "Local RAG AI Agent.json",
   "path": "2025/01/Local RAG AI Agent.json",
-  "sha": "dd518ff0784d6574aabd191b2989ebd7df920d3b",
-  "size": 67,
+  "sha": "fa6630d007c121217db44e9cababf71d9fa4f3f4",
+  "size": 1136,
   "type": "file",
   "url": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/Local%20RAG%20AI%20Agent.json?ref=main"
 }
