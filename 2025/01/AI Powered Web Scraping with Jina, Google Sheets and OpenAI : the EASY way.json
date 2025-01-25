@@ -1,18 +1,18 @@
 {
   "_links": {
     "self": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/AI%20Powered%20Web%20Scraping%20with%20Jina,%20Google%20Sheets%20and%20OpenAI%20:%20the%20EASY%20way.json?ref=main",
-    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/ef03a1f6d28b6a73d5951f07adc06281037a88a4",
     "html": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/AI%20Powered%20Web%20Scraping%20with%20Jina,%20Google%20Sheets%20and%20OpenAI%20:%20the%20EASY%20way.json"
   },
-  "content": "ewogICJlcnJvciI6ICJUaGUgcmVzb3VyY2UgeW91IGFyZSByZXF1ZXN0aW5n\nIGNvdWxkIG5vdCBiZSBmb3VuZCIKfQ==\n",
+  "content": "ewogICJfbGlua3MiOiB7CiAgICAic2VsZiI6ICJodHRwczovL2FwaS5naXRo\ndWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvY29udGVudHMv\nMjAyNS8wMS9BSSUyMFBvd2VyZWQlMjBXZWIlMjBTY3JhcGluZyUyMHdpdGgl\nMjBKaW5hLCUyMEdvb2dsZSUyMFNoZWV0cyUyMGFuZCUyME9wZW5BSSUyMDol\nMjB0aGUlMjBFQVNZJTIwd2F5Lmpzb24/cmVmPW1haW4iLAogICAgImdpdCI6\nICJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhu\nLXdvcmtsb3cvZ2l0L2Jsb2JzL2RkNTE4ZmYwNzg0ZDY1NzRhYWJkMTkxYjI5\nODllYmQ3ZGY5MjBkM2IiLAogICAgImh0bWwiOiAiaHR0cHM6Ly9naXRodWIu\nY29tL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvYmxvYi9tYWluLzIwMjUvMDEv\nQUklMjBQb3dlcmVkJTIwV2ViJTIwU2NyYXBpbmclMjB3aXRoJTIwSmluYSwl\nMjBHb29nbGUlMjBTaGVldHMlMjBhbmQlMjBPcGVuQUklMjA6JTIwdGhlJTIw\nRUFTWSUyMHdheS5qc29uIgogIH0sCiAgImNvbnRlbnQiOiAiZXdvZ0lDSmxj\nbkp2Y2lJNklDSlVhR1VnY21WemIzVnlZMlVnZVc5MUlHRnlaU0J5WlhGMVpY\nTjBhVzVuXG5JR052ZFd4a0lHNXZkQ0JpWlNCbWIzVnVaQ0lLZlE9PVxuIiwK\nICAiZG93bmxvYWRfdXJsIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250\nZW50LmNvbS9PbGl2aWVyMzQwL244bi13b3JrbG93L21haW4vMjAyNS8wMS9B\nSSUyMFBvd2VyZWQlMjBXZWIlMjBTY3JhcGluZyUyMHdpdGglMjBKaW5hJTJD\nJTIwR29vZ2xlJTIwU2hlZXRzJTIwYW5kJTIwT3BlbkFJJTIwJTNBJTIwdGhl\nJTIwRUFTWSUyMHdheS5qc29uIiwKICAiZW5jb2RpbmciOiAiYmFzZTY0IiwK\nICAiZ2l0X3VybCI6ICJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL09s\naXZpZXIzNDAvbjhuLXdvcmtsb3cvZ2l0L2Jsb2JzL2RkNTE4ZmYwNzg0ZDY1\nNzRhYWJkMTkxYjI5ODllYmQ3ZGY5MjBkM2IiLAogICJodG1sX3VybCI6ICJo\ndHRwczovL2dpdGh1Yi5jb20vT2xpdmllcjM0MC9uOG4td29ya2xvdy9ibG9i\nL21haW4vMjAyNS8wMS9BSSUyMFBvd2VyZWQlMjBXZWIlMjBTY3JhcGluZyUy\nMHdpdGglMjBKaW5hLCUyMEdvb2dsZSUyMFNoZWV0cyUyMGFuZCUyME9wZW5B\nSSUyMDolMjB0aGUlMjBFQVNZJTIwd2F5Lmpzb24iLAogICJuYW1lIjogIkFJ\nIFBvd2VyZWQgV2ViIFNjcmFwaW5nIHdpdGggSmluYSwgR29vZ2xlIFNoZWV0\ncyBhbmQgT3BlbkFJIDogdGhlIEVBU1kgd2F5Lmpzb24iLAogICJwYXRoIjog\nIjIwMjUvMDEvQUkgUG93ZXJlZCBXZWIgU2NyYXBpbmcgd2l0aCBKaW5hLCBH\nb29nbGUgU2hlZXRzIGFuZCBPcGVuQUkgOiB0aGUgRUFTWSB3YXkuanNvbiIs\nCiAgInNoYSI6ICJkZDUxOGZmMDc4NGQ2NTc0YWFiZDE5MWIyOTg5ZWJkN2Rm\nOTIwZDNiIiwKICAic2l6ZSI6IDY3LAogICJ0eXBlIjogImZpbGUiLAogICJ1\ncmwiOiAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9PbGl2aWVyMzQw\nL244bi13b3JrbG93L2NvbnRlbnRzLzIwMjUvMDEvQUklMjBQb3dlcmVkJTIw\nV2ViJTIwU2NyYXBpbmclMjB3aXRoJTIwSmluYSwlMjBHb29nbGUlMjBTaGVl\ndHMlMjBhbmQlMjBPcGVuQUklMjA6JTIwdGhlJTIwRUFTWSUyMHdheS5qc29u\nP3JlZj1tYWluIgp9\n",
   "download_url": "https://raw.githubusercontent.com/Olivier340/n8n-worklow/main/2025/01/AI%20Powered%20Web%20Scraping%20with%20Jina%2C%20Google%20Sheets%20and%20OpenAI%20%3A%20the%20EASY%20way.json",
   "encoding": "base64",
-  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/ef03a1f6d28b6a73d5951f07adc06281037a88a4",
   "html_url": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/AI%20Powered%20Web%20Scraping%20with%20Jina,%20Google%20Sheets%20and%20OpenAI%20:%20the%20EASY%20way.json",
   "name": "AI Powered Web Scraping with Jina, Google Sheets and OpenAI : the EASY way.json",
   "path": "2025/01/AI Powered Web Scraping with Jina, Google Sheets and OpenAI : the EASY way.json",
-  "sha": "dd518ff0784d6574aabd191b2989ebd7df920d3b",
-  "size": 67,
+  "sha": "ef03a1f6d28b6a73d5951f07adc06281037a88a4",
+  "size": 1632,
   "type": "file",
   "url": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/AI%20Powered%20Web%20Scraping%20with%20Jina,%20Google%20Sheets%20and%20OpenAI%20:%20the%20EASY%20way.json?ref=main"
 }
