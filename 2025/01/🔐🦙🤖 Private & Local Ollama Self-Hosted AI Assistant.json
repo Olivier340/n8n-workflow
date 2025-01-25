@@ -1,3 +1,18 @@
 {
-  "error": "The resource you are requesting could not be found"
+  "_links": {
+    "self": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/%F0%9F%94%90%F0%9F%A6%99%F0%9F%A4%96%20Private%20&%20Local%20Ollama%20Self-Hosted%20AI%20Assistant.json?ref=main",
+    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+    "html": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/%F0%9F%94%90%F0%9F%A6%99%F0%9F%A4%96%20Private%20&%20Local%20Ollama%20Self-Hosted%20AI%20Assistant.json"
+  },
+  "content": "ewogICJlcnJvciI6ICJUaGUgcmVzb3VyY2UgeW91IGFyZSByZXF1ZXN0aW5n\nIGNvdWxkIG5vdCBiZSBmb3VuZCIKfQ==\n",
+  "download_url": "https://raw.githubusercontent.com/Olivier340/n8n-worklow/main/2025/01/🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json",
+  "encoding": "base64",
+  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+  "html_url": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/%F0%9F%94%90%F0%9F%A6%99%F0%9F%A4%96%20Private%20&%20Local%20Ollama%20Self-Hosted%20AI%20Assistant.json",
+  "name": "🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json",
+  "path": "2025/01/🔐🦙🤖 Private & Local Ollama Self-Hosted AI Assistant.json",
+  "sha": "dd518ff0784d6574aabd191b2989ebd7df920d3b",
+  "size": 67,
+  "type": "file",
+  "url": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/%F0%9F%94%90%F0%9F%A6%99%F0%9F%A4%96%20Private%20&%20Local%20Ollama%20Self-Hosted%20AI%20Assistant.json?ref=main"
 }
