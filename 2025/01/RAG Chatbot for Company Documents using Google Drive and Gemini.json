@@ -1,18 +1,18 @@
 {
   "_links": {
     "self": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/RAG%20Chatbot%20for%20Company%20Documents%20using%20Google%20Drive%20and%20Gemini.json?ref=main",
-    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+    "git": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/33504f6d19396eb58b8d294f736ae44be87d2f27",
     "html": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/RAG%20Chatbot%20for%20Company%20Documents%20using%20Google%20Drive%20and%20Gemini.json"
   },
-  "content": "ewogICJlcnJvciI6ICJUaGUgcmVzb3VyY2UgeW91IGFyZSByZXF1ZXN0aW5n\nIGNvdWxkIG5vdCBiZSBmb3VuZCIKfQ==\n",
+  "content": "ewogICJfbGlua3MiOiB7CiAgICAic2VsZiI6ICJodHRwczovL2FwaS5naXRo\ndWIuY29tL3JlcG9zL09saXZpZXIzNDAvbjhuLXdvcmtsb3cvY29udGVudHMv\nMjAyNS8wMS9SQUclMjBDaGF0Ym90JTIwZm9yJTIwQ29tcGFueSUyMERvY3Vt\nZW50cyUyMHVzaW5nJTIwR29vZ2xlJTIwRHJpdmUlMjBhbmQlMjBHZW1pbmku\nanNvbj9yZWY9bWFpbiIsCiAgICAiZ2l0IjogImh0dHBzOi8vYXBpLmdpdGh1\nYi5jb20vcmVwb3MvT2xpdmllcjM0MC9uOG4td29ya2xvdy9naXQvYmxvYnMv\nZGQ1MThmZjA3ODRkNjU3NGFhYmQxOTFiMjk4OWViZDdkZjkyMGQzYiIsCiAg\nICAiaHRtbCI6ICJodHRwczovL2dpdGh1Yi5jb20vT2xpdmllcjM0MC9uOG4t\nd29ya2xvdy9ibG9iL21haW4vMjAyNS8wMS9SQUclMjBDaGF0Ym90JTIwZm9y\nJTIwQ29tcGFueSUyMERvY3VtZW50cyUyMHVzaW5nJTIwR29vZ2xlJTIwRHJp\ndmUlMjBhbmQlMjBHZW1pbmkuanNvbiIKICB9LAogICJjb250ZW50IjogImV3\nb2dJQ0psY25KdmNpSTZJQ0pVYUdVZ2NtVnpiM1Z5WTJVZ2VXOTFJR0Z5WlNC\neVpYRjFaWE4wYVc1blxuSUdOdmRXeGtJRzV2ZENCaVpTQm1iM1Z1WkNJS2ZR\nPT1cbiIsCiAgImRvd25sb2FkX3VybCI6ICJodHRwczovL3Jhdy5naXRodWJ1\nc2VyY29udGVudC5jb20vT2xpdmllcjM0MC9uOG4td29ya2xvdy9tYWluLzIw\nMjUvMDEvUkFHJTIwQ2hhdGJvdCUyMGZvciUyMENvbXBhbnklMjBEb2N1bWVu\ndHMlMjB1c2luZyUyMEdvb2dsZSUyMERyaXZlJTIwYW5kJTIwR2VtaW5pLmpz\nb24iLAogICJlbmNvZGluZyI6ICJiYXNlNjQiLAogICJnaXRfdXJsIjogImh0\ndHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvT2xpdmllcjM0MC9uOG4td29y\na2xvdy9naXQvYmxvYnMvZGQ1MThmZjA3ODRkNjU3NGFhYmQxOTFiMjk4OWVi\nZDdkZjkyMGQzYiIsCiAgImh0bWxfdXJsIjogImh0dHBzOi8vZ2l0aHViLmNv\nbS9PbGl2aWVyMzQwL244bi13b3JrbG93L2Jsb2IvbWFpbi8yMDI1LzAxL1JB\nRyUyMENoYXRib3QlMjBmb3IlMjBDb21wYW55JTIwRG9jdW1lbnRzJTIwdXNp\nbmclMjBHb29nbGUlMjBEcml2ZSUyMGFuZCUyMEdlbWluaS5qc29uIiwKICAi\nbmFtZSI6ICJSQUcgQ2hhdGJvdCBmb3IgQ29tcGFueSBEb2N1bWVudHMgdXNp\nbmcgR29vZ2xlIERyaXZlIGFuZCBHZW1pbmkuanNvbiIsCiAgInBhdGgiOiAi\nMjAyNS8wMS9SQUcgQ2hhdGJvdCBmb3IgQ29tcGFueSBEb2N1bWVudHMgdXNp\nbmcgR29vZ2xlIERyaXZlIGFuZCBHZW1pbmkuanNvbiIsCiAgInNoYSI6ICJk\nZDUxOGZmMDc4NGQ2NTc0YWFiZDE5MWIyOTg5ZWJkN2RmOTIwZDNiIiwKICAi\nc2l6ZSI6IDY3LAogICJ0eXBlIjogImZpbGUiLAogICJ1cmwiOiAiaHR0cHM6\nLy9hcGkuZ2l0aHViLmNvbS9yZXBvcy9PbGl2aWVyMzQwL244bi13b3JrbG93\nL2NvbnRlbnRzLzIwMjUvMDEvUkFHJTIwQ2hhdGJvdCUyMGZvciUyMENvbXBh\nbnklMjBEb2N1bWVudHMlMjB1c2luZyUyMEdvb2dsZSUyMERyaXZlJTIwYW5k\nJTIwR2VtaW5pLmpzb24/cmVmPW1haW4iCn0=\n",
   "download_url": "https://raw.githubusercontent.com/Olivier340/n8n-worklow/main/2025/01/RAG%20Chatbot%20for%20Company%20Documents%20using%20Google%20Drive%20and%20Gemini.json",
   "encoding": "base64",
-  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/dd518ff0784d6574aabd191b2989ebd7df920d3b",
+  "git_url": "https://api.github.com/repos/Olivier340/n8n-worklow/git/blobs/33504f6d19396eb58b8d294f736ae44be87d2f27",
   "html_url": "https://github.com/Olivier340/n8n-worklow/blob/main/2025/01/RAG%20Chatbot%20for%20Company%20Documents%20using%20Google%20Drive%20and%20Gemini.json",
   "name": "RAG Chatbot for Company Documents using Google Drive and Gemini.json",
   "path": "2025/01/RAG Chatbot for Company Documents using Google Drive and Gemini.json",
-  "sha": "dd518ff0784d6574aabd191b2989ebd7df920d3b",
-  "size": 67,
+  "sha": "33504f6d19396eb58b8d294f736ae44be87d2f27",
+  "size": 1511,
   "type": "file",
   "url": "https://api.github.com/repos/Olivier340/n8n-worklow/contents/2025/01/RAG%20Chatbot%20for%20Company%20Documents%20using%20Google%20Drive%20and%20Gemini.json?ref=main"
 }
